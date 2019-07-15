@@ -17,5 +17,6 @@ pom.xml.*
 classes
 
 obj
+.gradle/
 
 .DS_Store
